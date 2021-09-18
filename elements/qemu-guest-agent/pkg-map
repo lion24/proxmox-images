@@ -1,0 +1,7 @@
+{
+  "family": {
+    "gentoo": {
+      "qemu-quest-agent": "app-emulation/qemu-guest-agent"
+    }
+  }
+}
